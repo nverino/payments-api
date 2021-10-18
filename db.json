@@ -1,0 +1,58 @@
+[
+    {
+        "id": "4f3fe4eb-6afc-4d7b-b630-10b09177b48c",
+        "amount": 200,
+        "description": "product description",
+        "payment_gateway": "naranja",
+        "pan": "************1538"
+    },
+    {
+        "id": "05ea4157-d742-487b-9f49-47b320a723f9",
+        "amount": 500,
+        "description": "product description",
+        "payment_gateway": "visa",
+        "pan": "************4165"
+    },
+    {
+        "id": "6d1c821c-eda5-41ee-b3af-438aef5ce796",
+        "amount": 250,
+        "description": "product description",
+        "payment_gateway": "naranja",
+        "pan": "************4878"
+    },
+    {
+        "id": "b542cef3-3c49-4021-a57b-0d68b76ea0bc",
+        "amount": 300,
+        "description": "product description",
+        "payment_gateway": "naranja",
+        "pan": "************2558"
+    },
+    {
+        "id": "fa207d5a-4c08-4036-ac9e-709dee3228a0",
+        "amount": 400,
+        "description": "product description",
+        "payment_gateway": "visa",
+        "pan": "************1561"
+    },
+    {
+        "id": "f02c4c2a-ca0a-4ec4-b1da-adb72061a275",
+        "amount": 355,
+        "description": "product description",
+        "payment_gateway": "naranja",
+        "pan": "************3564"
+    },
+    {
+        "id": "7c3f561b-7c6a-41ad-9c09-d45c98308067",
+        "amount": 800,
+        "description": "product description",
+        "payment_gateway": "visa",
+        "pan": "************2562"
+    },
+    {
+        "id": "6a9ea002-2051-4621-b948-9f200b4b1be5",
+        "amount": 1000,
+        "description": "product description",
+        "payment_gateway": "naranja",
+        "pan": "************1118"
+    }
+]
